@@ -8,7 +8,7 @@
 <div id="header" align="center">
   <img src="https://i.gifer.com/Vp3L.gif" width="100"/>
 </div>
-Greetings, weary traveler! 🌄 Step into my digital tavern and let me regale you with tales of code and creativity. I am [Your Name], your trusty tavern keep, here to provide you with a warm virtual hearth, a place to rest your code-weary bones, and some tales of my own.
+Greetings, weary traveler! 🌄 Step into my digital tavern and let me regale you with tales of code and creativity. I am Marcovicii, your trusty tavern keep, here to provide you with a warm virtual hearth, a place to rest your code-weary bones, and some tales of my own.
 
 ## 🍺 About Me
 
