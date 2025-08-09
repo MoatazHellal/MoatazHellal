@@ -20,9 +20,9 @@ As the tavern keep, I dabble in the magical arts of coding and design. Crafting 
 
 I wield an arsenal of coding languages and tools, including:
 
-- ✨ Unity, Unreal Engine 4/5
+- ✨ Unity, Unreal Engine 4/5, Qt, QML
 - 🧙‍♂️ C++, C#, Java, Python
-- 📦 Git, GitHub
+- 📦 Git, GitHub, Perforce
 ## 🌟 Join the Quest
 
 If you're an adventurer like me, seeking to collaborate on epic quests, share knowledge, or simply have a friendly chat about code and creativity, don't hesitate to reach out. The tavern doors are always open, and the conversation flows as freely as the ale!
